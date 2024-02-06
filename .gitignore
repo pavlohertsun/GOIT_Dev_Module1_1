@@ -2,10 +2,7 @@
 !**/src/test/**/target/GOIT_Dev_Module1_1-1.0-SNAPSHOT-shaded.jar
 
 ### IntelliJ IDEA ###
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
+.idea/*
 *.iws
 *.iml
 *.ipr
